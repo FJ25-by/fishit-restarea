@@ -2,7 +2,7 @@ local VERSION = "BETA"
 local HUB_NAME = "Yuji Admin Panel"
 local games = {
     [6701277882]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/Fish_It.lua",
-    [6739698191]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/vd.lua"
+    [6739698191]      = "https://raw.githubusercontent.com/FJ25-by/Sc-Rblx/refs/heads/main/vd.lua"
 }
 
 local universeId = game.GameId
