@@ -3,7 +3,7 @@ local HUB_NAME = "Yuji Admin Panel"
 local games = {
     [6701277882]      = "https://raw.githubusercontent.com/FJ25-by/Sc-Rblx/refs/heads/main/fishit%2Brestarea.lua",
     [6739698191]      = "https://raw.githubusercontent.com/FJ25-by/Sc-Rblx/refs/heads/main/vd.lua",
-    [90226220017920]  = "https://raw.githubusercontent.com/FJ25-by/Sc-Rblx/refs/heads/main/fishit%2Brestarea.lua"
+    [9065255580]  = "https://raw.githubusercontent.com/FJ25-by/Sc-Rblx/refs/heads/main/fishit%2Brestarea.lua"
 }
 
 local universeId = game.GameId
