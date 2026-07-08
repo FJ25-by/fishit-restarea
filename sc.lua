@@ -308,7 +308,7 @@ local REMOTES_V1 = {
         "RF/a8d45075fa321893238d721572aa77a2d430a76c1e27bd797b2a3694c50a8e31",
     },
     sell = {
-        "RF/64c63340b623fb5ef5891e4375285ab52ae3f9d974db0fe627b6c8b14ddb6388",
+        "RF/76fca35ac85a6b780b47990d140c463d8b3fc543d536db5013add1a9c0a98acc",
     },
     boat_spawn = {
         "RF/72f10be9c44ed407cccf31a7d563ea5c3e28df55881ff562be932d2f320fdff1",
